@@ -30,7 +30,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### <img src="ruta/al/logo-dsl.png" alt="Logo DSL" width="40"/> Reporte DSL
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NyGRZqWcSJmZA4pG6YQmWKj1gCdgnban6Q&" alt="Logo DSL" width="40"/> Reporte DSL
 
 **Descripción**: Un análisis profundo de las métricas de desempeño en servicios de telecomunicaciones, específicamente para la tecnología DSL. Este reporte permite monitorear la calidad del servicio, la frecuencia de fallos y la respuesta ante incidentes.
 
@@ -41,7 +41,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### <img src="ruta/al/logo-covid19.png" alt="Logo COVID-19" width="40"/> Reporte COVID-19
+### <img src="https://yt3.googleusercontent.com/NZGQuvsEuMlUZZuUnlQ-AOCoZI0DgCRKnyMxFsY1YhHiwoNjtiQlcriuVeB9o1txnSYIo0JoIw=s900-c-k-c0x00ffffff-no-rj" alt="Logo COVID-19" width="40"/> Reporte COVID-19
 
 **Descripción**: Este dashboard ofrece un análisis detallado de los indicadores de mortalidad y morbilidad relacionados con el COVID-19. Facilita el monitoreo de la evolución del virus y su impacto en la salud pública.
 
@@ -52,7 +52,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### <img src="ruta/al/logo-inkakrops.png" alt="Logo InkaKrops" width="40"/> Reporte Demográfico InkaKrops
+### <img src="https://fotos.pandape.com/PROD/atslogos/263331c9-505e-4e70-b137-ca21a03a1644_4.png" alt="Logo InkaKrops" width="40"/> Reporte Demográfico InkaKrops
 
 **Descripción**: Este reporte ofrece un análisis demográfico para la empresa InkaKrops, permitiendo una mejor comprensión de la composición de su personal y la distribución geográfica de los empleados. Este tipo de análisis es crucial para la planificación estratégica de recursos humanos.
 
