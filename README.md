@@ -5,6 +5,11 @@
 Este informe de Power BI proporciona un análisis exhaustivo de los datos financieros, incluyendo indicadores clave de rendimiento (KPIs) como el crecimiento de ingresos, márgenes de beneficio, comparaciones entre unidades de negocio y análisis demográficos. El panel permite a los usuarios realizar un seguimiento de las tendencias de rendimiento a lo largo del tiempo y tomar decisiones basadas en datos.
 
 ## Funcionalidades
+## Power BI Dashboard
+
+You can view the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9).
+
+![Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
 
 - **Análisis de Crecimiento de Ingresos**: Rastrea y visualiza las tendencias de ingresos a lo largo del tiempo en diferentes unidades de negocio.
 - **KPIs de Márgenes de Beneficio**: Análisis detallado de los márgenes brutos y netos, con desglose por unidad de negocio y categoría de productos.
