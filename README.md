@@ -1,59 +1,99 @@
-# Informe Power BI: Panel de KPIs Financieros
+# Proyectos de Business Intelligence
+
+Bienvenido a la colección de reportes de Business Intelligence (BI) desarrollados para diversas áreas de análisis. Estos proyectos incluyen dashboards y reportes interactivos que proporcionan información clave para la toma de decisiones en distintos sectores. A continuación se presentan los reportes disponibles y sus descripciones.
+
+## Índice
+
+1. [Descripción General](#descripción-general)
+2. [Proyectos](#proyectos)
+   - [Reporte Clínica Internacional](#reporte-clínica-internacional)
+   - [Reporte DSL](#reporte-dsl)
+   - [Reporte COVID-19](#reporte-covid-19)
+   - [Reporte Demográfico InkaKrops](#reporte-demográfico-inkakrops)
+3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+4. [Contacto](#contacto)
 
 ## Descripción General
 
-Este informe de Power BI proporciona un análisis exhaustivo de los datos financieros, incluyendo indicadores clave de rendimiento (KPIs) como el crecimiento de ingresos, márgenes de beneficio, comparaciones entre unidades de negocio y análisis demográficos. El panel permite a los usuarios realizar un seguimiento de las tendencias de rendimiento a lo largo del tiempo y tomar decisiones basadas en datos.
+Estos proyectos han sido diseñados para dar soporte a la toma de decisiones mediante la visualización de datos clave, incluyendo indicadores de salud, métricas de servicio, análisis de población y mucho más. Los reportes están elaborados en Power BI, utilizando cálculos avanzados en DAX y conexiones a distintas fuentes de datos.
 
-## Funcionalidades
-## Power BI Dashboard
+## Proyectos
 
-You can view the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9).
+### Reporte Clínica Internacional
 
-![Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
-<h2>Power BI Dashboard</h2>
-<iframe 
-  width="800" 
-  height="600" 
-  src="https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9" 
-  frameborder="0" 
-  allowFullScreen="true">
-</iframe>
+![Logo Clínica Internacional](ruta/al/logo-clinica.png)
 
-- **Análisis de Crecimiento de Ingresos**: Rastrea y visualiza las tendencias de ingresos a lo largo del tiempo en diferentes unidades de negocio.
-- **KPIs de Márgenes de Beneficio**: Análisis detallado de los márgenes brutos y netos, con desglose por unidad de negocio y categoría de productos.
-- **KPIs Demográficos**: Información sobre la distribución de empleados por género y edad, incluyendo un análisis de empleados activos basado en su fecha de nacimiento.
-- **Gastos vs. Ingresos**: Un gráfico de dispersión que compara los ingresos con los gastos para un mejor seguimiento del presupuesto.
-- **Visualizaciones Interactivas**: Gráficos y tablas dinámicas que permiten a los usuarios filtrar por fecha, unidad de negocio y otras categorías.
+**Descripción**: Este reporte analiza indicadores de desempeño de una clínica, incluyendo métricas de atención, tiempos de espera, satisfacción del paciente y calidad del servicio. El objetivo es mejorar la eficiencia operativa y aumentar la satisfacción de los pacientes.
 
-## Fuentes de Datos
+- **Métricas clave**: Tiempos de atención, nivel de satisfacción, volumen de consultas, entre otros.
+- **Interactividad**: Permite aplicar filtros por fecha, tipo de consulta, médico, etc.
 
-- **Datos Financieros**: Incluyen ingresos, gastos e información por unidad de negocio. Los datos se procesan utilizando funciones DAX para proporcionar cálculos avanzados.
-- **Datos de Empleados**: Utilizados para el análisis demográfico, incluye campos como Género, Fecha de Nacimiento y Estado Activo.
+**Acceso**: [Ver Reporte](#)
 
-## Requisitos
+---
 
-- **Power BI Desktop**: [Descargar aquí](https://powerbi.microsoft.com/desktop/)
-- Conexión válida a la base de datos financiera de la empresa para actualizaciones de datos (utiliza tus credenciales de la empresa).
-- **Funciones DAX**: Utilizadas para cálculos financieros avanzados y KPIs.
+### Reporte DSL
 
-## Cómo Utilizar el Informe
+![Logo DSL](ruta/al/logo-dsl.png)
 
-1. **Abrir el Informe**: Descarga y abre el archivo `.pbix` utilizando Power BI Desktop.
-2. **Actualizar Datos**: Conéctate a las fuentes de datos adecuadas (datos financieros, datos demográficos, etc.) utilizando las credenciales de tu organización.
-3. **Filtrar y Analizar**: Utiliza los filtros proporcionados para ver los datos por unidades de negocio específicas, periodos de tiempo o datos demográficos de empleados.
-4. **Exportar Insights**: Exporta gráficos e insights según sea necesario para presentaciones o análisis adicionales.
+**Descripción**: Un análisis profundo de las métricas de desempeño en servicios de telecomunicaciones, específicamente para la tecnología DSL. Este reporte permite monitorear la calidad del servicio, la frecuencia de fallos y la respuesta ante incidentes.
 
-## Mejoras Futuras
+- **Métricas clave**: Índices de fallos, tiempos de resolución, satisfacción del cliente, entre otros.
+- **Interactividad**: Se pueden filtrar datos por región, tipo de fallo y periodo de análisis.
 
-- Inclusión de un análisis de tendencias más detallado por unidad de negocio individual.
-- Añadir análisis predictivo para la previsión de ingresos y gastos futuros.
-- Mejorar la sección demográfica con insights detallados por departamento.
+**Acceso**: [Ver Reporte](#)
+
+---
+
+### Reporte COVID-19
+
+![Logo COVID-19](ruta/al/logo-covid19.png)
+
+**Descripción**: Este dashboard ofrece un análisis detallado de los indicadores de mortalidad y morbilidad relacionados con el COVID-19. Facilita el monitoreo de la evolución del virus y su impacto en la salud pública.
+
+- **Métricas clave**: Número de casos, tasa de mortalidad, distribución geográfica de los casos, entre otros.
+- **Interactividad**: Incluye filtros por rango de fechas, región y grupos de edad.
+
+**Acceso**: [Ver Reporte](https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
+
+---
+
+### Reporte Demográfico InkaKrops
+
+![Logo InkaKrops](ruta/al/logo-inkakrops.png)
+
+**Descripción**: Este reporte ofrece un análisis demográfico para la empresa InkaKrops, permitiendo una mejor comprensión de la composición de su personal y la distribución geográfica de los empleados. Este tipo de análisis es crucial para la planificación estratégica de recursos humanos.
+
+- **Métricas clave**: Edad, género, ubicación, y nivel de experiencia de los empleados.
+- **Interactividad**: Se puede segmentar por diferentes atributos demográficos.
+
+**Acceso**: [Ver Reporte](#)
+
+---
+
+## Tecnologías Utilizadas
+
+Los proyectos se desarrollaron usando las siguientes herramientas:
+
+- **Power BI**: Para la creación de dashboards interactivos y visualización de datos.
+- **DAX**: Para cálculos avanzados dentro de Power BI.
+- **Power Automate**: Automatización de procesos de actualización de datos.
+- **Excel y SQL**: Para la limpieza y preparación de datos.
 
 ## Contacto
 
-Para cualquier pregunta o comentario sobre este informe, por favor contacta a:
+Si tienes preguntas o deseas colaborar en estos proyectos, no dudes en ponerte en contacto.
 
-**Sandro Manuel Anaya Leguía**  
-*Analista de Datos y Desarrollador Junior*  
-Correo: [tu-email@ejemplo.com]  
-GitHub: [tu-perfil-github]
+- **Nombre**: Sandro Manuel Anaya Leguía
+- **Email**: sandro.anaya@example.com
+- **LinkedIn**: [Tu perfil de LinkedIn](https://linkedin.com/in/tuperfil)
+
+---
+
+### Instrucciones para los logos:
+1. **Sustituye `ruta/al/logo-clinica.png`** con la ruta real de los logos que quieras usar.
+2. **Asegúrate de que los logos estén en el repositorio** o en un enlace externo accesible.
+
+---
+
+De este modo, puedes añadir los logos de cada reporte en su respectiva sección. Asegúrate de tener los archivos de imagen (.png, .jpg, etc.) en el repositorio o en un lugar accesible públicamente.
