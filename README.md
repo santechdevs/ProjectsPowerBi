@@ -10,6 +10,14 @@ Este informe de Power BI proporciona un análisis exhaustivo de los datos financ
 You can view the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9).
 
 ![Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
+<h2>Power BI Dashboard</h2>
+<iframe 
+  width="800" 
+  height="600" 
+  src="https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9" 
+  frameborder="0" 
+  allowFullScreen="true">
+</iframe>
 
 - **Análisis de Crecimiento de Ingresos**: Rastrea y visualiza las tendencias de ingresos a lo largo del tiempo en diferentes unidades de negocio.
 - **KPIs de Márgenes de Beneficio**: Análisis detallado de los márgenes brutos y netos, con desglose por unidad de negocio y categoría de productos.
