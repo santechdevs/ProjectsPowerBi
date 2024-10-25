@@ -19,9 +19,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ## Proyectos
 
-### Reporte Clínica Internacional
-
-![Logo Clínica Internacional](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDXtqy3Zfx7E-F3cpLG3xpW82GmXNCG9UIw&s)
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDXtqy3Zfx7E-F3cpLG3xpW82GmXNCG9UIw&s" alt="Logo Clínica Internacional" width="40"/> Reporte Clínica Internacional
 
 **Descripción**: Este reporte analiza indicadores de desempeño de una clínica, incluyendo métricas de atención, tiempos de espera, satisfacción del paciente y calidad del servicio. El objetivo es mejorar la eficiencia operativa y aumentar la satisfacción de los pacientes.
 
@@ -32,9 +30,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### Reporte DSL
-
-![Logo DSL](ruta/al/logo-dsl.png)
+### <img src="ruta/al/logo-dsl.png" alt="Logo DSL" width="40"/> Reporte DSL
 
 **Descripción**: Un análisis profundo de las métricas de desempeño en servicios de telecomunicaciones, específicamente para la tecnología DSL. Este reporte permite monitorear la calidad del servicio, la frecuencia de fallos y la respuesta ante incidentes.
 
@@ -45,9 +41,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### Reporte COVID-19
-
-![Logo COVID-19](ruta/al/logo-covid19.png)
+### <img src="ruta/al/logo-covid19.png" alt="Logo COVID-19" width="40"/> Reporte COVID-19
 
 **Descripción**: Este dashboard ofrece un análisis detallado de los indicadores de mortalidad y morbilidad relacionados con el COVID-19. Facilita el monitoreo de la evolución del virus y su impacto en la salud pública.
 
@@ -58,9 +52,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### Reporte Demográfico InkaKrops
-
-![Logo InkaKrops](ruta/al/logo-inkakrops.png)
+### <img src="ruta/al/logo-inkakrops.png" alt="Logo InkaKrops" width="40"/> Reporte Demográfico InkaKrops
 
 **Descripción**: Este reporte ofrece un análisis demográfico para la empresa InkaKrops, permitiendo una mejor comprensión de la composición de su personal y la distribución geográfica de los empleados. Este tipo de análisis es crucial para la planificación estratégica de recursos humanos.
 
@@ -85,8 +77,8 @@ Los proyectos se desarrollaron usando las siguientes herramientas:
 Si tienes preguntas o deseas colaborar en estos proyectos, no dudes en ponerte en contacto.
 
 - **Nombre**: Sandro Manuel Anaya Leguía
-- **Email**: sanayaleguia@gmail.com
-- **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/in/sandro-manuel-anaya-leguia-256857256/)
+- **Email**: sandro.anaya@example.com
+- **LinkedIn**: [Tu perfil de LinkedIn](https://linkedin.com/in/tuperfil)
 
 ---
 
@@ -96,4 +88,5 @@ Si tienes preguntas o deseas colaborar en estos proyectos, no dudes en ponerte e
 
 ---
 
-De este modo, puedes añadir los logos de cada reporte en su respectiva sección. Asegúrate de tener los archivos de imagen (.png, .jpg, etc.) en el repositorio o en un lugar accesible públicamente.
+### Ejemplo de cambio en el tamaño de la imagen:
+- El atributo `width="40"` ajusta el tamaño de la imagen a 40 píxeles de ancho.
