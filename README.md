@@ -21,7 +21,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ### Reporte Clínica Internacional
 
-![Logo Clínica Internacional](ruta/al/logo-clinica.png)
+![Logo Clínica Internacional](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDXtqy3Zfx7E-F3cpLG3xpW82GmXNCG9UIw&s)
 
 **Descripción**: Este reporte analiza indicadores de desempeño de una clínica, incluyendo métricas de atención, tiempos de espera, satisfacción del paciente y calidad del servicio. El objetivo es mejorar la eficiencia operativa y aumentar la satisfacción de los pacientes.
 
@@ -85,8 +85,8 @@ Los proyectos se desarrollaron usando las siguientes herramientas:
 Si tienes preguntas o deseas colaborar en estos proyectos, no dudes en ponerte en contacto.
 
 - **Nombre**: Sandro Manuel Anaya Leguía
-- **Email**: sandro.anaya@example.com
-- **LinkedIn**: [Tu perfil de LinkedIn](https://linkedin.com/in/tuperfil)
+- **Email**: sanayaleguia@gmail.com
+- **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/in/sandro-manuel-anaya-leguia-256857256/)
 
 ---
 
