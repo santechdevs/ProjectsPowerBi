@@ -81,12 +81,3 @@ Si tienes preguntas o deseas colaborar en estos proyectos, no dudes en ponerte e
 - **LinkedIn**: [Tu perfil de LinkedIn](https://linkedin.com/in/tuperfil)
 
 ---
-
-### Instrucciones para los logos:
-1. **Sustituye `ruta/al/logo-clinica.png`** con la ruta real de los logos que quieras usar.
-2. **Asegúrate de que los logos estén en el repositorio** o en un enlace externo accesible.
-
----
-
-### Ejemplo de cambio en el tamaño de la imagen:
-- El atributo `width="40"` ajusta el tamaño de la imagen a 40 píxeles de ancho.
