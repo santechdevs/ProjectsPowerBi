@@ -10,6 +10,7 @@ Bienvenido a la colección de reportes de Business Intelligence (BI) desarrollad
    - [Reporte DSL](#reporte-dsl)
    - [Reporte COVID-19](#reporte-covid-19)
    - [Reporte Demográfico InkaKrops](#reporte-demográfico-inkakrops)
+   - [Reporte Demográfico InkaKrops](#reporte-demográfico-inkakrops)
 3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 4. [Contacto](#contacto)
 
@@ -63,7 +64,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### <img src="https://besco.com.pe/uploads/nosotros/logo-besco-min.png" width="50"/> Reporte Comercial Besco S.a.C.
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixzaVTgJ9S-Rb9lXsj9Zn65YJWETrTyyK6g&s" width="50"/> Reporte Comercial Besco S.a.C.
 
 **Descripción**: Este reporte ofrece un análisis demográfico para la empresa InkaKrops, permitiendo una mejor comprensión de la composición de su personal y la distribución geográfica de los empleados. Este tipo de análisis es crucial para la planificación estratégica de recursos humanos.
 
