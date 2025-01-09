@@ -52,7 +52,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### <img src="https://fotos.pandape.com/PROD/atslogos/263331c9-505e-4e70-b137-ca21a03a1644_4.png" alt="Logo InkaKrops" width="40"/> Reporte Demográfico InkaKrops
+### <img src="https://www.teamcore.net/wp-content/uploads/2023/06/Logo-Inka.png" alt="Logo InkaKrops" width="40"/> Reporte Demográfico InkaKrops
 
 **Descripción**: Este reporte ofrece un análisis demográfico para la empresa InkaKrops, permitiendo una mejor comprensión de la composición de su personal y la distribución geográfica de los empleados. Este tipo de análisis es crucial para la planificación estratégica de recursos humanos.
 
