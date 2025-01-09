@@ -63,6 +63,16 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
+### <img src="https://besco.com.pe/uploads/nosotros/logo-besco-min.png" width="50"/> Reporte Comercial Besco S.a.C.
+
+**Descripción**: Este reporte ofrece un análisis demográfico para la empresa InkaKrops, permitiendo una mejor comprensión de la composición de su personal y la distribución geográfica de los empleados. Este tipo de análisis es crucial para la planificación estratégica de recursos humanos.
+
+- **Métricas clave**: Edad, género, ubicación, y nivel de experiencia de los empleados.
+- **Interactividad**: Se puede segmentar por diferentes atributos demográficos.
+
+**Acceso**: [Ver Reporte](#)
+
+---
 ## Tecnologías Utilizadas
 
 Los proyectos se desarrollaron usando las siguientes herramientas:
