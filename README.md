@@ -20,7 +20,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ## Proyectos
 
-### <img src="Logos/clinica.png" alt="Logo Clínica Internacional" width="30"/> Reporte Clínica Internacional
+### <img src="Logos/clinica.png" alt="Logo Clínica Internacional" width="50"/> Reporte Clínica Internacional
 
 **Descripción**: Este reporte analiza indicadores de desempeño de una clínica, incluyendo métricas de atención, tiempos de espera, satisfacción del paciente y calidad del servicio. El objetivo es mejorar la eficiencia operativa y aumentar la satisfacción de los pacientes.
 
