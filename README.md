@@ -31,7 +31,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NyGRZqWcSJmZA4pG6YQmWKj1gCdgnban6Q&" alt="Logo DSL" width="40"/> Reporte DSL
+### <img src="Logos/dls.png" alt="Logo DSL" width="40"/> Reporte DSL
 
 **Descripción**: Un análisis profundo de las métricas de desempeño en servicios de telecomunicaciones, específicamente para la tecnología DSL. Este reporte permite monitorear la calidad del servicio, la frecuencia de fallos y la respuesta ante incidentes.
 
@@ -53,7 +53,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### <img src="https://www.teamcore.net/wp-content/uploads/2023/06/Logo-Inka.png" alt="Logo InkaKrops" width="50"/> Reporte Demográfico InkaKrops
+### <img src="Logos/inkacrops.png" width="50"/> Reporte Demográfico InkaKrops
 
 **Descripción**: Este reporte ofrece un análisis demográfico para la empresa InkaKrops, permitiendo una mejor comprensión de la composición de su personal y la distribución geográfica de los empleados. Este tipo de análisis es crucial para la planificación estratégica de recursos humanos.
 
@@ -64,7 +64,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 
 ---
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixzaVTgJ9S-Rb9lXsj9Zn65YJWETrTyyK6g&s" width="50"/> Reporte Comercial Besco S.a.C.
+### <img src="Logos/besco.png" width="50"/> Reporte Comercial Besco S.a.C.
 
 **Descripción**: Este reporte ofrece un análisis demográfico para la empresa InkaKrops, permitiendo una mejor comprensión de la composición de su personal y la distribución geográfica de los empleados. Este tipo de análisis es crucial para la planificación estratégica de recursos humanos.
 
