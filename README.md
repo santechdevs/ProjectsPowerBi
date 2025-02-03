@@ -27,7 +27,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 - **Métricas clave**: Tiempos de atención, nivel de satisfacción, volumen de consultas, entre otros.
 - **Interactividad**: Permite aplicar filtros por fecha, tipo de consulta, médico, etc.
 
-**Acceso**: [Ver Reporte](#)
+**Acceso**: [Ver Reporte](https://app.powerbi.com/view?r=eyJrIjoiMGNlODE0NTYtZjE2Zi00MTdkLTgyMjMtNmI0NjhiMWM3ZjhiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9&embedImagePlaceholder=true)
 
 ---
 
@@ -38,18 +38,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 - **Métricas clave**: Índices de fallos, tiempos de resolución, satisfacción del cliente, entre otros.
 - **Interactividad**: Se pueden filtrar datos por región, tipo de fallo y periodo de análisis.
 
-**Acceso**: [Ver Reporte](#)
-
----
-
-### <img src="https://yt3.googleusercontent.com/NZGQuvsEuMlUZZuUnlQ-AOCoZI0DgCRKnyMxFsY1YhHiwoNjtiQlcriuVeB9o1txnSYIo0JoIw=s900-c-k-c0x00ffffff-no-rj" alt="Logo COVID-19" width="40"/> Reporte COVID-19
-
-**Descripción**: Este dashboard ofrece un análisis detallado de los indicadores de mortalidad y morbilidad relacionados con el COVID-19. Facilita el monitoreo de la evolución del virus y su impacto en la salud pública.
-
-- **Métricas clave**: Número de casos, tasa de mortalidad, distribución geográfica de los casos, entre otros.
-- **Interactividad**: Incluye filtros por rango de fechas, región y grupos de edad.
-
-**Acceso**: [Ver Reporte](https://app.powerbi.com/view?r=eyJrIjoiYzMyODFkZGEtYmI1OC00NzJkLThjMDMtOTczOGVhMzczMDRiIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
+**Acceso**: [Ver Reporte](https://app.powerbi.com/view?r=eyJrIjoiZDUzZjdjM2EtM2RkZC00YmY2LTg2YmItMTc2NzYwZmI5YWJkIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9&embedImagePlaceholder=true)
 
 ---
 
@@ -60,7 +49,7 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 - **Métricas clave**: Edad, género, ubicación, y nivel de experiencia de los empleados.
 - **Interactividad**: Se puede segmentar por diferentes atributos demográficos.
 
-**Acceso**: [Ver Reporte](#)
+**Acceso**: [Ver Reporte](https://app.powerbi.com/view?r=eyJrIjoiMzY4NzU2ZTktYTdiMy00NmY4LWI1MzUtZDkwNTY2YmY3ODgwIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9&embedImagePlaceholder=true)
 
 ---
 
