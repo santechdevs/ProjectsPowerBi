@@ -89,7 +89,7 @@ Los proyectos se desarrollaron usando las siguientes herramientas:
 Si tienes preguntas o deseas colaborar en estos proyectos, no dudes en ponerte en contacto.
 
 - **Nombre**: Sandro Manuel Anaya Leguía
-- **Email**: sandro.anaya@example.com
-- **LinkedIn**: [Tu perfil de LinkedIn](https://linkedin.com/in/tuperfil)
+- **Email**: sleguiadata@gmail.com
+- **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/in/sandroanayaleguia/)
 
 ---
