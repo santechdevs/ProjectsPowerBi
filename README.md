@@ -11,6 +11,7 @@ Bienvenido a la colección de reportes de Business Intelligence (BI) desarrollad
    - [Reporte COVID-19](#reporte-covid-19)
    - [Reporte Demográfico InkaKrops](#reporte-demográfico-inkakrops)
    - [Reporte Demográfico InkaKrops](#reporte-demográfico-inkakrops)
+   - [Reporte Requerimientos Xplora S.A](#reporte-demográfico-inkakrops)
 3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 4. [Contacto](#contacto)
 
@@ -60,7 +61,18 @@ Estos proyectos han sido diseñados para dar soporte a la toma de decisiones med
 - **Métricas clave**: Edad, género, ubicación, y nivel de experiencia de los empleados.
 - **Interactividad**: Se puede segmentar por diferentes atributos demográficos.
 
-**Acceso**: [Ver Reporte](#)
+**Acceso**: [Ver Reporte](https://app.powerbi.com/view?r=eyJrIjoiYmVlMWIyMzItYjdjZi00MDRlLThlYjYtNjFlMjE4MjcwNjA1IiwidCI6ImI1ZmRjNDNkLTg5MGYtNDIwOC05MTdkLTEwN2M3MTFkNTdjYyJ9)
+
+---
+
+### <img src="Logos\xplora_grupolucky_logo.jpeg" width="50"/> Reporte Requerimientos Xplora
+
+**Descripción**: El presente documento recopila los requerimientos de los usuarios internos que utilizan la aplicación web y móvil de Xplora, con el fin de garantizar que la solución cumpla con sus necesidades de información y usabilidad a los usuarios de Xplora .
+
+- **Métricas clave**: Operativas (uso de la app web/móvil), De satisfacción y soporte.
+- **Interactividad**: Disponibilidad del reporte con opción de visualización en tiempo real.
+
+**Acceso**: [Ver Reporte](https://app.powerbi.com/view?r=eyJrIjoiZDhlMzVlYjItZTcxMC00ODNiLWI4ZGQtZjMxZjZhZjE4NTAxIiwidCI6IjY3Mzk4ZjkyLWJiNDYtNDQ5MS04OGYyLWU4ZWRkNTg0MDFiZCIsImMiOjR9)
 
 ---
 ## Tecnologías Utilizadas
